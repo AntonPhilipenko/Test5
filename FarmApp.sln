@@ -10,7 +10,7 @@ EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmApp.DAL.Tests", "FarmApp.DAL.Tests\FarmApp.DAL.Tests.csproj", "{260C1923-0D36-4872-B978-94E6B89A667D}"
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmApp.BLL", "FarmApp.BLL\FarmApp.BLL.csproj", "{F6920374-B8DC-444E-A5D4-3B3E0C2AF0A4}"
-EndProject
+EndProject   
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "FarmApp.BLL.Tests", "FarmApp.BLL.Tests\FarmApp.BLL.Tests.csproj", "{72109BAB-0ED4-4912-9A67-4779E18548B1}"
 EndProject
 Global
